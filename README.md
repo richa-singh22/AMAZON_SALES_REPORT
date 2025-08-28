@@ -1,5 +1,5 @@
 #Amazon sales report
-This repository contains a Power BI dashboard designed to analyze Amazon sales data. The dashboard provides a comprehensive visual overview of key sales metrics, allowing for in-depth insights into profitability, sales performance, and quantity sold.
+##This repository contains a Power BI dashboard designed to analyze Amazon sales data. The dashboard provides a comprehensive visual overview of key sales metrics, allowing for in-depth insights into profitability, sales performance, and quantity sold.
 
 -Profitability Analysis: The dashboard includes a bar chart showing the sum of profit by product name, helping to identify top-performing and underperforming products.
 
